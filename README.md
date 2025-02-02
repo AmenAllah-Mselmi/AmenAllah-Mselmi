@@ -13,7 +13,7 @@
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
     <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #2c3e50; font-size: 1.5em; text-align: center;">Frontend</h3>
-      <p style="color: #7f8c8d; text-align: center;">React, Next.js, Zustand, Tailwind CSS</p>
+      <p style="color: #7f8c8d; text-align: center;">React, Next.js,Angular ,Zustand, Tailwind CSS</p>
     </div>
     <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #2c3e50; font-size: 1.5em; text-align: center;">Backend</h3>
