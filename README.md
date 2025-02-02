@@ -6,6 +6,7 @@
   <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🔧 <span style="color: #16a085;">Skills & Technologies</span></h2>
   <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
     <li>⚡ **React** | **Node.js** | **Express** | **MongoDB**</li>
+    <li>⚡ **SQL** | **Angular** | **Next.js** | **springBoot**</li>
     <li>⚡ **Tailwind CSS** | **JavaScript** | **TypeScript**</li>
     <li>⚡ **NestJS** (currently learning)</li>
     <li>⚡ Strong foundation in **Docker** and **CI/CD**</li>
