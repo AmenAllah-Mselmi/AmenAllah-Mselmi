@@ -1,21 +1,30 @@
-# 💫 About Me:
-👋 Hi! I'm **AmenAllah Mselmi**, a dedicated **Full-Stack Developer** with a strong passion for creating web applications using the **MERN & MEAN** stacks. With experience in both frontend and backend development, I love building scalable, efficient systems and diving into new technologies.
-
-🔧 **Skills & Technologies**  
-I specialize in modern web technologies such as **React**, **Node.js**, **Express**, **MongoDB**, and **Tailwind CSS**. I'm always learning and excited about exploring frameworks like **NestJS** and technologies around **microservices** and **DevOps**.
-
-🌱 **Current Focus**  
-I'm currently focused on enhancing my skills with **NestJS** and diving deeper into the world of **Docker** and **CI/CD** for smoother deployments and system scaling.
-
-🧑‍🏫 **Community Engagement**  
-As a **technical lead** at **Microsoft Issatso**, I mentor aspiring developers and help organize events. I also enjoy giving back to the community by teaching web development and hosting workshops.
-
-📬 **Let's Connect!**  
-- [LinkedIn](https://www.linkedin.com/in/amen-allah-mselmi-294171241/)  
-- [GitHub](https://github.com/AmenAllah-Mselmi/)  
-- Email: [amenallahmselmi5@gmail.com](mailto:amenallahmselmi5@gmail.com)
-
----
+<div style="background-color: #f4f6f9; border-radius: 8px; padding: 30px; max-width: 800px; margin: 20px auto; font-family: 'Arial', sans-serif;">
+  <h1 style="color: #2c3e50; font-size: 2em; text-align: center;">💫 About Me</h1>
+  <p style="color: #34495e; font-size: 1.2em; line-height: 1.6; text-align: justify;">
+    👋 Hi! I'm <strong style="color: #16a085;">AmenAllah Mselmi</strong>, a passionate <strong style="color: #2980b9;">Full-Stack Developer</strong> with expertise in building web applications using the <strong style="color: #8e44ad;">MERN & MEAN</strong> stacks. I thrive on creating scalable, efficient systems, and I’m constantly exploring new technologies to expand my development toolkit.
+  </p>
+  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🔧 <span style="color: #16a085;">Skills & Technologies</span></h2>
+  <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
+    <li>⚡ **React** | **Node.js** | **Express** | **MongoDB**</li>
+    <li>⚡ **Tailwind CSS** | **JavaScript** | **TypeScript**</li>
+    <li>⚡ **NestJS** (currently learning)</li>
+    <li>⚡ Strong foundation in **Docker** and **CI/CD**</li>
+  </ul>
+  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🌱 <span style="color: #2980b9;">Current Focus</span></h2>
+  <p style="color: #34495e; font-size: 1.1em;">
+    Right now, I'm diving into the world of <strong style="color: #16a085;">NestJS</strong> for backend development, and working with <strong style="color: #8e44ad;">Docker</strong> for containerization. I'm also exploring new tools and practices around <strong style="color: #16a085;">microservices</strong> and improving my skills in **DevOps**.
+  </p>
+  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🧑‍🏫 <span style="color: #2980b9;">Community Engagement</span></h2>
+  <p style="color: #34495e; font-size: 1.1em;">
+    As a <strong style="color: #2980b9;">Technical Lead</strong> at **Microsoft Issatso**, I help mentor aspiring developers and assist in organizing educational events. I enjoy sharing my knowledge through workshops and actively participate in shaping the future of web development.
+  </p>
+  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">📬 <span style="color: #2980b9;">Let's Connect!</span></h2>
+  <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
+    <li>🔗 <a href="https://www.linkedin.com/in/amen-allah-mselmi-294171241/" target="_blank" style="color: #2980b9;">LinkedIn</a></li>
+    <li>🐙 <a href="https://github.com/AmenAllah-Mselmi/" target="_blank" style="color: #2980b9;">GitHub</a></li>
+    <li>📧 Email: <a href="mailto:amenallahmselmi5@gmail.com" style="color: #2980b9;">amenallahmselmi5@gmail.com</a></li>
+  </ul>
+</div>
 
 
 ## 🌐 Socials:
