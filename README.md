@@ -1,30 +1,62 @@
-<div style="background-color: #f4f6f9; border-radius: 8px; padding: 30px; max-width: 800px; margin: 20px auto; font-family: 'Arial', sans-serif;">
-  <h1 style="color: #2c3e50; font-size: 2em; text-align: center;">💫 About Me</h1>
-  <p style="color: #34495e; font-size: 1.2em; line-height: 1.6; text-align: justify;">
-    👋 Hi! I'm <strong style="color: #16a085;">AmenAllah Mselmi</strong>, a passionate <strong style="color: #2980b9;">Full-Stack Developer</strong> with expertise in building web applications using the <strong style="color: #8e44ad;">MERN & MEAN</strong> stacks. I thrive on creating scalable, efficient systems, and I’m constantly exploring new technologies to expand my development toolkit.
+<div style="background: linear-gradient(145deg, #f0f4f8, #dbe6f0); border-radius: 15px; padding: 40px; max-width: 900px; margin: 30px auto; font-family: 'Arial', sans-serif; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
+  <h1 style="color: #2c3e50; font-size: 2.5em; text-align: center; margin-bottom: 20px;">🌟 About Me</h1>
+  <p style="color: #34495e; font-size: 1.25em; line-height: 1.8; text-align: justify;">
+    👋 Hello, I'm <strong style="color: #1abc9c;">AmenAllah Mselmi</strong>, a passionate Full-Stack Developer who specializes in the MERN & MEAN stacks. I build intuitive, scalable, and performant applications that empower users and businesses alike. I'm always learning and exploring new technologies to improve my craft.
   </p>
-  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🔧 <span style="color: #16a085;">Skills & Technologies</span></h2>
+  <hr style="border: 0; border-top: 2px solid #2980b9; margin-top: 40px; margin-bottom: 30px;"/>
+  
+  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">🛠️ Skills & Technologies</h2>
+  <div style="color: #34495e; font-size: 1.1em; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
+    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
+      <span style="font-size: 2.5em; color: #2980b9;">⚡</span>
+      <h3 style="font-size: 1.2em; color: #2c3e50;">React</h3>
+    </div>
+    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
+      <span style="font-size: 2.5em; color: #16a085;">⚡</span>
+      <h3 style="font-size: 1.2em; color: #2c3e50;">Node.js</h3>
+    </div>
+    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
+      <span style="font-size: 2.5em; color: #8e44ad;">⚡</span>
+      <h3 style="font-size: 1.2em; color: #2c3e50;">MongoDB</h3>
+    </div>
+    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
+      <span style="font-size: 2.5em; color: #2980b9;">⚡</span>
+      <h3 style="font-size: 1.2em; color: #2c3e50;">Express.js</h3>
+    </div>
+  </div>
+  
+  <hr style="border: 0; border-top: 2px solid #2980b9; margin-top: 40px; margin-bottom: 30px;"/>
+  
+  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">📈 Current Focus</h2>
+  <p style="color: #34495e; font-size: 1.1em; margin-bottom: 20px;">
+    I'm currently diving deeper into backend development with <strong style="color: #16a085;">NestJS</strong> and <strong style="color: #8e44ad;">Docker</strong>. I'm also expanding my understanding of <strong style="color: #2980b9;">microservices</strong> and learning new ways to implement CI/CD pipelines to improve the developer workflow.
+  </p>
+
+  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">🌍 Community & Mentorship</h2>
+  <p style="color: #34495e; font-size: 1.1em; margin-bottom: 20px;">
+    As a <strong style="color: #1abc9c;">Technical Lead</strong> at <strong style="color: #2980b9;">Microsoft Issatso</strong>, I mentor and collaborate with aspiring developers to help them improve their skills and participate in the community. I actively organize workshops and events to promote knowledge sharing and growth.
+  </p>
+  
+  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">📬 Get in Touch</h2>
   <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
-    <li>⚡ **React** | **Node.js** | **Express** | **MongoDB**</li>
-    <li>⚡ **Tailwind CSS** | **JavaScript** | **TypeScript**</li>
-    <li>⚡ **NestJS** (currently learning)</li>
-    <li>⚡ Strong foundation in **Docker** and **CI/CD**</li>
-  </ul>
-  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🌱 <span style="color: #2980b9;">Current Focus</span></h2>
-  <p style="color: #34495e; font-size: 1.1em;">
-    Right now, I'm diving into the world of <strong style="color: #16a085;">NestJS</strong> for backend development, and working with <strong style="color: #8e44ad;">Docker</strong> for containerization. I'm also exploring new tools and practices around <strong style="color: #16a085;">microservices</strong> and improving my skills in **DevOps**.
-  </p>
-  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">🧑‍🏫 <span style="color: #2980b9;">Community Engagement</span></h2>
-  <p style="color: #34495e; font-size: 1.1em;">
-    As a <strong style="color: #2980b9;">Technical Lead</strong> at **Microsoft Issatso**, I help mentor aspiring developers and assist in organizing educational events. I enjoy sharing my knowledge through workshops and actively participate in shaping the future of web development.
-  </p>
-  <h2 style="color: #2c3e50; font-size: 1.6em; margin-top: 30px;">📬 <span style="color: #2980b9;">Let's Connect!</span></h2>
-  <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
-    <li>🔗 <a href="https://www.linkedin.com/in/amen-allah-mselmi-294171241/" target="_blank" style="color: #2980b9;">LinkedIn</a></li>
-    <li>🐙 <a href="https://github.com/AmenAllah-Mselmi/" target="_blank" style="color: #2980b9;">GitHub</a></li>
-    <li>📧 Email: <a href="mailto:amenallahmselmi5@gmail.com" style="color: #2980b9;">amenallahmselmi5@gmail.com</a></li>
+    <li style="margin-bottom: 10px;">
+      <a href="https://www.linkedin.com/in/amen-allah-mselmi-294171241/" target="_blank" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
+        LinkedIn Profile
+      </a>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <a href="https://github.com/AmenAllah-Mselmi/" target="_blank" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
+        GitHub Portfolio
+      </a>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <a href="mailto:amenallahmselmi5@gmail.com" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
+        Email: amenallahmselmi5@gmail.com
+      </a>
+    </li>
   </ul>
 </div>
+
 
 
 ## 🌐 Socials:
