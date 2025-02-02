@@ -1,62 +1,66 @@
-<div style="background: linear-gradient(145deg, #f0f4f8, #dbe6f0); border-radius: 15px; padding: 40px; max-width: 900px; margin: 30px auto; font-family: 'Arial', sans-serif; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
-  <h1 style="color: #2c3e50; font-size: 2.5em; text-align: center; margin-bottom: 20px;">🌟 About Me</h1>
-  <p style="color: #34495e; font-size: 1.25em; line-height: 1.8; text-align: justify;">
-    👋 Hello, I'm <strong style="color: #1abc9c;">AmenAllah Mselmi</strong>, a passionate Full-Stack Developer who specializes in the MERN & MEAN stacks. I build intuitive, scalable, and performant applications that empower users and businesses alike. I'm always learning and exploring new technologies to improve my craft.
-  </p>
-  <hr style="border: 0; border-top: 2px solid #2980b9; margin-top: 40px; margin-bottom: 30px;"/>
+<div style="max-width: 900px; margin: 50px auto; padding: 30px; background: #f4f7f9; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); font-family: 'Arial', sans-serif;">
+  <!-- Header Section -->
+  <h1 style="color: #2c3e50; text-align: center; font-size: 2.5em; margin-bottom: 20px;">👋 About Me</h1>
   
-  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">🛠️ Skills & Technologies</h2>
-  <div style="color: #34495e; font-size: 1.1em; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
-    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
-      <span style="font-size: 2.5em; color: #2980b9;">⚡</span>
-      <h3 style="font-size: 1.2em; color: #2c3e50;">React</h3>
+  <!-- Introduction Section -->
+  <p style="color: #34495e; font-size: 1.2em; line-height: 1.8; text-align: justify;">
+    Hello, I’m <strong style="color: #2980b9;">AmenAllah Mselmi</strong>, a Full-Stack Developer specializing in the MERN & MEAN stacks. I enjoy building scalable, user-friendly web applications that help businesses grow. I’m constantly learning new technologies and aiming to create solutions that improve both the user experience and developer productivity.
+  </p>
+  
+  <hr style="border: 0; border-top: 2px solid #2980b9; margin: 30px 0;"/>
+  
+  <!-- Skills Section -->
+  <h2 style="color: #2980b9; font-size: 1.75em; text-align: center; margin-bottom: 20px;">🛠️ Skills & Technologies</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px;">
+    <!-- Skill 1 -->
+    <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #2c3e50; font-size: 1.5em;">React</h3>
+      <p style="color: #7f8c8d; font-size: 1.1em;">Building dynamic user interfaces</p>
     </div>
-    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
-      <span style="font-size: 2.5em; color: #16a085;">⚡</span>
-      <h3 style="font-size: 1.2em; color: #2c3e50;">Node.js</h3>
+    
+    <!-- Skill 2 -->
+    <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #2c3e50; font-size: 1.5em;">Node.js</h3>
+      <p style="color: #7f8c8d; font-size: 1.1em;">Creating server-side applications</p>
     </div>
-    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
-      <span style="font-size: 2.5em; color: #8e44ad;">⚡</span>
-      <h3 style="font-size: 1.2em; color: #2c3e50;">MongoDB</h3>
+    
+    <!-- Skill 3 -->
+    <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #2c3e50; font-size: 1.5em;">MongoDB</h3>
+      <p style="color: #7f8c8d; font-size: 1.1em;">NoSQL database management</p>
     </div>
-    <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease-in-out;">
-      <span style="font-size: 2.5em; color: #2980b9;">⚡</span>
-      <h3 style="font-size: 1.2em; color: #2c3e50;">Express.js</h3>
+    
+    <!-- Skill 4 -->
+    <div style="padding: 20px; background: #ecf0f1; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #2c3e50; font-size: 1.5em;">Express.js</h3>
+      <p style="color: #7f8c8d; font-size: 1.1em;">Building RESTful APIs</p>
     </div>
   </div>
   
-  <hr style="border: 0; border-top: 2px solid #2980b9; margin-top: 40px; margin-bottom: 30px;"/>
+  <hr style="border: 0; border-top: 2px solid #2980b9; margin: 30px 0;"/>
   
-  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">📈 Current Focus</h2>
-  <p style="color: #34495e; font-size: 1.1em; margin-bottom: 20px;">
-    I'm currently diving deeper into backend development with <strong style="color: #16a085;">NestJS</strong> and <strong style="color: #8e44ad;">Docker</strong>. I'm also expanding my understanding of <strong style="color: #2980b9;">microservices</strong> and learning new ways to implement CI/CD pipelines to improve the developer workflow.
+  <!-- Current Focus Section -->
+  <h2 style="color: #2980b9; font-size: 1.75em; text-align: center; margin-bottom: 20px;">🚀 Current Focus</h2>
+  <p style="color: #34495e; font-size: 1.1em; text-align: center;">
+    Right now, I’m focusing on improving my backend skills with <strong style="color: #2980b9;">NestJS</strong> and exploring cloud technologies like <strong style="color: #2980b9;">AWS</strong>. I’m also learning more about deploying microservices architectures.
   </p>
 
-  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">🌍 Community & Mentorship</h2>
-  <p style="color: #34495e; font-size: 1.1em; margin-bottom: 20px;">
-    As a <strong style="color: #1abc9c;">Technical Lead</strong> at <strong style="color: #2980b9;">Microsoft Issatso</strong>, I mentor and collaborate with aspiring developers to help them improve their skills and participate in the community. I actively organize workshops and events to promote knowledge sharing and growth.
-  </p>
+  <hr style="border: 0; border-top: 2px solid #2980b9; margin: 30px 0;"/>
   
-  <h2 style="color: #2980b9; font-size: 1.75em; margin-bottom: 15px;">📬 Get in Touch</h2>
-  <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0;">
+  <!-- Contact Info Section -->
+  <h2 style="color: #2980b9; font-size: 1.75em; text-align: center; margin-bottom: 20px;">📬 Get in Touch</h2>
+  <ul style="color: #34495e; font-size: 1.1em; list-style: none; padding-left: 0; text-align: center;">
     <li style="margin-bottom: 10px;">
-      <a href="https://www.linkedin.com/in/amen-allah-mselmi-294171241/" target="_blank" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
-        LinkedIn Profile
-      </a>
+      <a href="https://www.linkedin.com/in/amen-allah-mselmi-294171241/" target="_blank" style="color: #2980b9; text-decoration: none; font-weight: bold;">LinkedIn Profile</a>
     </li>
     <li style="margin-bottom: 10px;">
-      <a href="https://github.com/AmenAllah-Mselmi/" target="_blank" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
-        GitHub Portfolio
-      </a>
+      <a href="https://github.com/AmenAllah-Mselmi/" target="_blank" style="color: #2980b9; text-decoration: none; font-weight: bold;">GitHub Portfolio</a>
     </li>
     <li style="margin-bottom: 10px;">
-      <a href="mailto:amenallahmselmi5@gmail.com" style="color: #2980b9; font-weight: bold; text-decoration: none; transition: color 0.3s;">
-        Email: amenallahmselmi5@gmail.com
-      </a>
+      <a href="mailto:amenallahmselmi5@gmail.com" style="color: #2980b9; text-decoration: none; font-weight: bold;">Email: amenallahmselmi5@gmail.com</a>
     </li>
   </ul>
 </div>
-
 
 
 ## 🌐 Socials:
